@@ -19,3 +19,10 @@
 <li>Enhanced CSS skills, especially with flexbox and grid for responsive design.</li>
 </li>
 </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/ritam-naskar-700b88294/">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQGXAC9-XDxrSg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725076501754?e=1735776000&v=beta&t=orXmGBihujhysQskzIznAhtHl0M5VHy75V-Ky8me1tg"/>
+    </a>
+</p>
+
